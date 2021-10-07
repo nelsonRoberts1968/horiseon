@@ -13,7 +13,7 @@ An overall goal of this project is to measure students understaing of web develo
 8.Provide access to both source code and public link to the site
 
 ## Installation
-Clone an existing project from the link below\ 
+Clone an existing project from the link below \ 
 https://github.com/coding-boot-camp/urban-octo-telegram
 
 
