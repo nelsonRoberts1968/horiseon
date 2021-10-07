@@ -1,5 +1,5 @@
 # Horiseon UCD BootCamp Code Challenge
-## Write a project description
+## Project Description
 An individual challenge to refactor existing code from previous developers.
 An overall goal of this project is to measure students understaing of web development best practice using below crateria
 
