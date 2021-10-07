@@ -115,25 +115,15 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-lead img {
+/*Images  could have one class that since they have same parametrs*/
+.side-panel img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/*These classes should be combines as well one class is missing which could cause the BUG for on pge navigation */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +150,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*These classess shouldbe combined */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -173,6 +163,7 @@ p {
     max-height: 200px;
 }
 
+/*These should be combined */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
